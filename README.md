@@ -1,6 +1,6 @@
 # ClosestToZero
 
-In this exercise, you have to analyze records of temperature to find the closest to zero. 
+In this exercise, I have to analyze temperature records to find the closest to zero. 
 Sample temperatures. Here, -1.7 is the closest to 0. Implement the function closestToZero to return the temperature closer to zero which belongs to the array ts.
 
 If ts is empty, return 0 (zero).
